@@ -6,12 +6,12 @@
  * Para ajuda com a sintaxe, acesse http://l20n.org/learn/ ou via e-mail
  * translations@coggle.it
  *
- * Cada linha de tradução e composta por duas partes:
+ * Cada linha de tradução é composta por duas partes:
  * 
  * <translation-id "O codigo html será <b>exibido</b>">
  *
  * O 'translation-id' nunca deve ser alterado, e as tags html 
- * como <div>...</div>, <b>, <h1> e etc também nao devem ser modificado.
+ * como <div>...</div>, <b>, <h1> e etc também não devem ser modificados.
  *
  *
  * English:
@@ -43,7 +43,7 @@
 
 <index-colab-mindmaps """
   <h1>Mapas mentais colaborativos</h1>
-  <p>Coggle e uma ferramenta online para criação e compartilhamento de mapas mentais. Crie online diretamente do seu navegador: Sem downloads ou instalações. <a>Faça log in</a> e começe a criar seus mapas agora!</p>
+  <p>Coggle é uma ferramenta online para criação e compartilhamento de mapas mentais. Crie online diretamente do seu navegador: Sem downloads ou instalações. <a>Faça log in</a> e começe a criar seus mapas agora!</p>
   <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
 """>
 
